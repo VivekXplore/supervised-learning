@@ -14,5 +14,4 @@ This repo contains all the projects covering supervised machine learning algorit
 ---
 
 ## Tech Stack 
-Python · pandas · scikit-learn · Jupyter Notebook · matplotlib · seaborn · pickle · etc# supervised-learning
-This Repository Contains projects related to Supervised-Machine Learning.
+Python · pandas · scikit-learn · Jupyter Notebook · matplotlib · seaborn · pickle · etc
