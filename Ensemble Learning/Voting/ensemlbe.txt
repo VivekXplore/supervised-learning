@@ -1,0 +1,29 @@
+Ensemble Learning - 
+
+In Dictionary, Ensemle means a grp of musican or people together 
+
+
+    Ensemble learning is the technique used in Machine Learning where diffrent Base models are grouped and 
+    combined/collective called as an Ensemble. 
+    - Here many Ml models are combined as a big model and called Ensemble. 
+
+
+It is said crowd will have more knowledge/wisdom than a single person combined. 
+
+Example, say you are buying a product and say you see review one has only 1 persons review which say prdt is good 
+and another has over 100 review from diffrent people so we wil surey trust the 100 reviews then the individual. 
+
+
+like wise, Democracy, grp of people vote and elect the leader, one person dosnt really have that much effort
+or influence in electing the leader.. 
+
+
+
+
+(other thigs learn in copy )
+
+Typs of Ensemble learning include 
+-Voting
+-Bagging
+-Stacking
+-Boosting
